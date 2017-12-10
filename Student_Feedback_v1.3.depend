@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1512933930 source:/media/mdrakib/Mixed/repository/Student_Feedback_v1.3/display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512933930 source:/media/mdrakib/Mixed/repository/Student_Feedback_v1.3/insert_review.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512933198 source:/media/mdrakib/Mixed/repository/Student_Feedback_v1.3/logout.c
+	<stdio.h>
+	<string.h>
+
+1512933198 source:/media/mdrakib/Mixed/repository/Student_Feedback_v1.3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512933198 source:/media/mdrakib/Mixed/repository/Student_Feedback_v1.3/menu_check.c
+	<stdio.h>
+	<string.h>
+
+1512933930 source:/media/mdrakib/Mixed/repository/Student_Feedback_v1.3/ratting.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1512933198 source:/media/mdrakib/Mixed/repository/Student_Feedback_v1.3/selection.c
+	<stdio.h>
+	<stdlib.h>
+
+1512933198 source:/media/mdrakib/Mixed/repository/Student_Feedback_v1.3/teacher_selection.c
+	<stdio.h>
+
+1512933930 source:/media/mdrakib/Mixed/repository/Student_Feedback_v1.3/user_login.c
+	<stdio.h>
+	<string.h>
+
+1512933930 source:/media/mdrakib/Mixed/repository/Student_Feedback_v1.3/user_reg.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1512933197 source:/media/mdrakib/Mixed/repository/Student_Feedback_v1.3/welcome.c
+	<stdio.h>
+
